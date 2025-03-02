@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and data sci
 - 👨‍💻 I specialize in full-stack development and data science.
 - 🌱 Currently learning more about machine learning and artificial intelligence.
 - 💬 Ask me about web development, data analysis, and machine learning algorithms.
-- 📫 How to reach me: [srikanthsk1@gmail.com](mailto:srikanth6374402154@gmail.com)
+- 📫 How to reach me: [srikanth6374402154@gmail.com.com](mailto:srikanth6374402154@gmail.com)
 - ⚡ Fun fact: I love playing chess and reading sci-fi novels.
 
 ## 🛠️ Technologies & Tools
