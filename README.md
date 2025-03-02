@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and data sci
 - 👨‍💻 I specialize in full-stack development and data science.
 - 🌱 Currently learning more about machine learning and artificial intelligence.
 - 💬 Ask me about web development, data analysis, and machine learning algorithms.
-- 📫 How to reach me: [srikanth6374402154@gmail.com.com](mailto:srikanth6374402154@gmail.com)
+- 📫 How to reach me: [srikanth63744021524@gmail.com](mailto:srikanth63744021524@gmail.com)
 - ⚡ Fun fact: I love playing chess and reading sci-fi novels.
 
 ## 🛠️ Technologies & Tools
@@ -40,16 +40,53 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and data sci
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+- **UI/UX Design**: 
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
 
 ![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanthsk1&show_icons=true&theme=radical)
 
+## 🌟 Featured Projects
+
+Here are some of my notable projects:
+
+- **Personal Portfolio Website**
+  - A responsive personal portfolio website to showcase my projects and skills.
+  - **Technologies**: HTML, CSS, JavaScript, React, Tailwind CSS
+  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/portfolio-website)
+
+- **E-commerce Platform**
+  - An e-commerce platform with user authentication, product listings, and a shopping cart.
+  - **Technologies**: Node.js, Express.js, MongoDB, React, Redux
+  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/e-commerce-platform)
+
+- **Machine Learning Model for Predicting House Prices**
+  - A machine learning model to predict house prices based on various features.
+  - **Technologies**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow
+  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/house-price-prediction)
+
+- **Chat Application**
+  - A real-time chat application with support for multiple chat rooms.
+  - **Technologies**: Node.js, Express.js, Socket.io, React
+  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/chat-application)
+
+## 📚 Certifications
+
+- **Full-Stack Web Development** - Coursera
+- **Data Science Specialization** - Coursera
+- **Machine Learning** - Coursera
+- **Deep Learning Specialization** - Coursera
+
+## 🎓 Education
+
+- **Bachelor of Technology in Information Technology** - Paavai Engineering College
+
 ## 🔗 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/srikanth-m1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/srikanth-m1)
 
-
-
+---
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
