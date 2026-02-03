@@ -25,7 +25,7 @@ Focused on real-world impact, scalability, and production-ready solutions.
 
 <p align="center">
 
-<a href="https://your-portfolio-link.com">
+<a href="https://data-scientist-portfolio-ten.vercel.app/">
 <img src="https://img.shields.io/badge/🌍_Portfolio-black?style=for-the-badge"/>
 </a>
 
@@ -37,7 +37,7 @@ Focused on real-world impact, scalability, and production-ready solutions.
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Srikanthsk1/blob/main/Resume.pdf">
+<a href="https://drive.google.com/file/d/1pIaUuRzxHJXpA0ySKr_BL3tLnmU_vMGE/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
 </a>
 
