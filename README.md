@@ -1,82 +1,167 @@
-# Hi there, I'm Srikanth! 👋
+<!-- ===================== HERO SECTION ===================== -->
 
-Welcome to my GitHub profile! I'm a passionate data scientist with a love for learning new technologies and solving challenging problems. Here's a bit about me:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=950&lines=Srikanth+(SRI);AI+Engineer+%7C+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production-Ready+AI+Systems+🚀" />
+</p>
 
-## 🚀 About Me
-
-- 👨‍💻 I specialize in data science.
-- 🌱 Currently learning more about machine learning and artificial intelligence.
-- 💬 Ask me about web development, data analysis, and machine learning algorithms.
-- 📫 How to reach me: [srikanthmani02@gmail.com](mailto:srikanth63744021524@gmail.com)
-- ⚡ Fun fact: I love playing chess and reading sci-fi novels.
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- **Data Science**: 
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
-- **Databases**: 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-- **Tools**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-- **UI/UX Design**: 
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
-
-## 📈 GitHub Stats
-
-![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanthsk1&show_icons=true&theme=radical)
-
-## 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-- **Personal Portfolio Website**
-  - A responsive personal portfolio website to showcase my projects and skills.
-  - **Technologies**: HTML, CSS, JavaScript, React, Tailwind CSS
-  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/portfolio-website)
-
-- **E-commerce Platform**
-  - An e-commerce platform with user authentication, product listings, and a shopping cart.
-  - **Technologies**: Node.js, Express.js, MongoDB, React, Redux
-  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/e-commerce-platform)
-
-- **Machine Learning Model for Predicting House Prices**
-  - A machine learning model to predict house prices based on various features.
-  - **Technologies**: Python, Pandas, NumPy, Scikit-Learn, TensorFlow
-  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/house-price-prediction)
-
-- **Chat Application**
-  - A real-time chat application with support for multiple chat rooms.
-  - **Technologies**: Node.js, Express.js, Socket.io, React
-  - **Repository**: [GitHub Repo](https://github.com/Srikanthsk1/chat-application)
-
-## 📚 Certifications
-- **Data Science Specialization** - 360DigiTmg
-- **Machine Learning** - 360DigiTmg
-- **Deep Learning Specialization** - 360DigiTmg
-
-## 🎓 Education
-
-- **Bachelor of Technology in Information Technology** - Paavai Engineering College
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/srikanth-m1)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srikanthsk1&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
+# 👋 Hi, I'm Srikanth
+
+### 🧠 AI Engineer | ML Engineer | Python Full-Stack Developer
+
+I build **end-to-end AI products** that go beyond notebooks.
+
+From **data pipelines → models → APIs → dashboards → deployment**,  
+I deliver **production-ready intelligence systems** that solve real business problems.
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/🌍_Portfolio-000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srikanth-m1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:srikanth63744021524@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ What I Do
+
+✅ Machine Learning Systems  
+✅ LLM & Generative AI Apps  
+✅ Forecasting & Predictive Analytics  
+✅ Business Intelligence Dashboards  
+✅ AI APIs & Microservices  
+✅ Full-Stack AI Web Applications  
+✅ Deployment & MLOps  
+
+---
+
+# 🧰 Tech Stack
+
+## 🤖 AI / ML
+Python • Scikit-Learn • TensorFlow • PyTorch • Pandas • NumPy • NLP • LLMs • RAG
+
+## ⚙ Backend
+FastAPI • Flask • Node.js • REST APIs • Docker • CI/CD
+
+## 🎨 Frontend
+React • Bootstrap • Tailwind • JavaScript • Chart.js
+
+## 🗄 Databases
+MySQL • MongoDB • PostgreSQL
+
+## 🛠 Tools
+Git • GitHub • Jupyter • Figma • VS Code
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+### 🧾 AI Billing Intelligence System
+<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=AI+Billing+Analytics+Dashboard"/>
+
+**Business analytics platform with predictive decision-making**
+
+✔ Sales Forecasting  
+✔ Churn Prediction  
+✔ Discount Optimization  
+✔ Inventory Forecast  
+
+**Stack:** Python • ML • PHP • MySQL • Chart.js  
+🔗 https://github.com/Srikanthsk1
+
+---
+
+### 🤖 Medical AI Chatbot (LLM + RAG)
+<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=Medical+LLM+Chatbot"/>
+
+**Intelligent healthcare Q&A assistant**
+
+✔ Fine-tuned LLaMA  
+✔ Retrieval Augmented Generation  
+✔ Telegram bot integration  
+
+**Stack:** LLM • NLP • Python  
+🔗 https://github.com/Srikanthsk1
+
+---
+
+### 📊 Customer Behavior Prediction Engine
+<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=Customer+Behavior+Prediction"/>
+
+**Predictive analytics for eCommerce growth**
+
+✔ Demand Forecasting  
+✔ Product Insights  
+✔ Marketing Intelligence  
+
+**Stack:** Pandas • Scikit-Learn  
+🔗 https://github.com/Srikanthsk1
+
+---
+
+# 📜 Certifications
+
+![Data Science](https://img.shields.io/badge/Data_Science-360DigiTmg-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-360DigiTmg-green)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-360DigiTmg-orange)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Srikanthsk1&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthsk1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthsk1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srikanthsk1/Srikanthsk1/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Generative AI Agents  
+- LangChain / LlamaIndex  
+- Advanced MLOps  
+- Large Scale AI Architecture  
+
+---
+
+# 💡 Philosophy
+
+> Build AI that ships to production.  
+> Not just notebooks.
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and collaborate!
