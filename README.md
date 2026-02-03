@@ -1,32 +1,32 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================================================== -->
+<!--                PREMIUM AI ENGINEER README              -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=950&lines=Srikanth+(SRI);AI+Engineer+%7C+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Production-Ready+AI+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2600&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Srikanth+(SRI)+👋;AI+Engineer+%7C+ML+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Systems;Data+→+Models+→+APIs+→+Deployment+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srikanthsk1&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Srikanthsk1&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Srikanth
+<h2 align="center">🤖 AI Engineer turning data into intelligent products</h2>
 
-### 🧠 AI Engineer | ML Engineer | Python Full-Stack Developer
-
-I build **end-to-end AI products** that go beyond notebooks.
-
-From **data pipelines → models → APIs → dashboards → deployment**,  
-I deliver **production-ready intelligence systems** that solve real business problems.
+<p align="center">
+I build <b>end-to-end AI systems</b> — from ML models to deployed full-stack applications.<br/>
+Focused on real-world impact, scalability, and production-ready solutions.
+</p>
 
 ---
 
-## 🔗 Connect
+# 🔗 Quick Links
 
 <p align="center">
 
 <a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/🌍_Portfolio-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍_Portfolio-black?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/srikanth-m1">
@@ -37,85 +37,127 @@ I deliver **production-ready intelligence systems** that solve real business pro
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/Srikanthsk1/blob/main/Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# ⚡ What I Do
+# 🧠 Professional Summary
 
-✅ Machine Learning Systems  
-✅ LLM & Generative AI Apps  
-✅ Forecasting & Predictive Analytics  
-✅ Business Intelligence Dashboards  
-✅ AI APIs & Microservices  
-✅ Full-Stack AI Web Applications  
-✅ Deployment & MLOps  
+• AI Engineer specializing in Machine Learning, Deep Learning & LLMs  
+• Build complete pipelines: Data → Model → API → Frontend → Deployment  
+• Strong in Forecasting, Predictive Analytics & Automation  
+• Experience integrating AI into real business systems  
+• Passionate about scalable and production-grade AI solutions  
+
+---
+
+# ⚡ Core Expertise
+
+| Domain | Skills |
+|--------|---------|
+| AI/ML | Regression, Classification, Forecasting, NLP, LLMs, RAG |
+| Backend | FastAPI, Flask, Node.js, REST APIs |
+| Frontend | React, Bootstrap, Chart.js |
+| Data | Pandas, NumPy, SQL, ETL |
+| Deployment | Docker, CI/CD, Model Serving |
 
 ---
 
 # 🧰 Tech Stack
 
-## 🤖 AI / ML
-Python • Scikit-Learn • TensorFlow • PyTorch • Pandas • NumPy • NLP • LLMs • RAG
+### 🤖 AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-black)
 
-## ⚙ Backend
-FastAPI • Flask • Node.js • REST APIs • Docker • CI/CD
+### ⚙ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 🎨 Frontend
-React • Bootstrap • Tailwind • JavaScript • Chart.js
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-## 🗄 Databases
+### 🗄 Databases
 MySQL • MongoDB • PostgreSQL
-
-## 🛠 Tools
-Git • GitHub • Jupyter • Figma • VS Code
 
 ---
 
 # 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🧾 AI Billing Intelligence System
-<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=AI+Billing+Analytics+Dashboard"/>
-
-**Business analytics platform with predictive decision-making**
+### 🧾 AI Billing Intelligence Platform
+AI-powered analytics & forecasting system  
 
 ✔ Sales Forecasting  
 ✔ Churn Prediction  
 ✔ Discount Optimization  
-✔ Inventory Forecast  
+✔ Inventory Risk Alerts  
 
-**Stack:** Python • ML • PHP • MySQL • Chart.js  
-🔗 https://github.com/Srikanthsk1
+**Stack:** Python • ML • PHP • MySQL  
 
----
+🔗 [Repository](https://github.com/Srikanthsk1)
+
+</td>
+
+<td width="50%">
 
 ### 🤖 Medical AI Chatbot (LLM + RAG)
-<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=Medical+LLM+Chatbot"/>
+Healthcare assistant using LLaMA  
 
-**Intelligent healthcare Q&A assistant**
-
-✔ Fine-tuned LLaMA  
+✔ Fine-tuned LLM  
 ✔ Retrieval Augmented Generation  
-✔ Telegram bot integration  
+✔ Telegram Integration  
 
-**Stack:** LLM • NLP • Python  
-🔗 https://github.com/Srikanthsk1
+**Stack:** Python • NLP • LLM  
 
----
+🔗 [Repository](https://github.com/Srikanthsk1)
 
-### 📊 Customer Behavior Prediction Engine
-<img src="https://via.placeholder.com/900x350/0d1117/00F7FF?text=Customer+Behavior+Prediction"/>
+</td>
+</tr>
 
-**Predictive analytics for eCommerce growth**
+<tr>
+<td width="50%">
+
+### 📊 Customer Behavior Prediction
+Predictive analytics for eCommerce  
 
 ✔ Demand Forecasting  
 ✔ Product Insights  
 ✔ Marketing Intelligence  
 
 **Stack:** Pandas • Scikit-Learn  
-🔗 https://github.com/Srikanthsk1
+
+🔗 [Repository](https://github.com/Srikanthsk1)
+
+</td>
+
+<td width="50%">
+
+### 🌐 AI Web Apps & APIs
+Full-stack ML model deployment  
+
+✔ Model → API → Dashboard  
+✔ REST services  
+✔ Docker deployment  
+
+**Stack:** React • FastAPI • Docker  
+
+🔗 [Repository](https://github.com/Srikanthsk1)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,7 +169,7 @@ Git • GitHub • Jupyter • Figma • VS Code
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Srikanthsk1&show_icons=true&theme=tokyonight"/>
@@ -148,20 +190,21 @@ Git • GitHub • Jupyter • Figma • VS Code
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Currently Exploring
 
-- Generative AI Agents  
-- LangChain / LlamaIndex  
-- Advanced MLOps  
-- Large Scale AI Architecture  
+• Generative AI  
+• LLM Agents  
+• LangChain & LlamaIndex  
+• MLOps & scalable AI systems  
 
 ---
 
 # 💡 Philosophy
 
-> Build AI that ships to production.  
-> Not just notebooks.
+> Production > Prototype  
+> Systems > Scripts  
+> Impact > Experiments  
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and collaborate!
+⭐ Thanks for visiting my profile — feel free to explore my repositories and collaborate!
